@@ -1,0 +1,109 @@
+* {box-sizing: border-box;}
+
+html, body {
+    height: 100%;
+  }
+
+body {
+    background: url("./background.jpg");
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    font-size: large;
+    color: burlywood;
+    font-family: 'Rye', cursive;
+}
+
+.container {
+display: flex;
+    flex-direction: column;
+    background-color: #31261e;
+    margin: auto;
+    min-height: 100%;
+    filter: opacity(90%);
+    box-shadow: 0px 0px 7px 5px #31261e;
+}
+
+header, nav, main, footer {
+    margin: auto;
+}
+
+header {
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    border-radius: 20px 20px 0 0;
+}
+
+select, option {
+    background: #31261e;
+    border: none;
+    color: #deb887;
+    font-size: large;
+    cursor: pointer;
+}
+
+main {
+    padding: 10px;
+    border-radius: 0 0 20px 20px;
+    flex: 1 0 auto;
+    width: 100%;
+    position: relative;
+}
+
+canvas {
+    border: 3px solid;
+    margin: auto;
+}
+
+footer {
+    margin-top: 10px;
+    border-radius: 20px 20px 0 0;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    flex-shrink: 0;
+}
+
+footer div {
+    width: 48%;
+    text-align: center;
+    border: 3px solid;
+    padding-top: 10px;
+}
+
+div a {
+    color: burlywood;
+}
+
+footer img {
+    width: 48%;
+    max-height: 250px;
+    border: 3px solid;
+}
+
+.slide {
+    animation: 300ms linear textslide;
+}
+
+@keyframes textslide {
+    0% {filter: blur(5px);}
+	100% {filter: blur(0);}
+}
+
+@media screen and (max-width:600px) {
+    .container {width: 90%;}
+}
+
+@media screen and (min-width:601px) and (max-width:800px) {
+    .container {width: 60%;}
+} 
+
+@media screen and (min-width:801px) {
+    .container {width: 50%;}
+} 

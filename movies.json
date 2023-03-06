@@ -1,0 +1,131 @@
+[
+    {
+        "title": "The Big Gundown",
+        "year":1967,
+        "actors": [
+            "Lee van Cleef"
+        ]
+    },
+    {
+        "title": "Magnificent Seven",
+        "year":1960,
+        "actors": [
+            "Yul Brynner",
+            "Charles Bronson",
+            "Eli Wallach"
+        ]
+    },
+    {
+        "title": "The Good, The Bad and the Ugly",
+        "year":1966,
+        "actors": [
+            "Lee van Cleef",
+            "Clint Eastwood",
+            "Eli Wallach"
+        ]
+    },
+    {
+        "title": "Rio Bravo",
+        "year":1959,
+        "actors": [
+            "John Wayne",
+            "Dean Martin"
+        ]
+    },
+    {
+        "title": "The Tin Star",
+        "year":1957,
+        "actors": [
+            "Henry Fonda",
+            "Lee van Cleef"
+        ]
+    },
+    {
+        "title": "Once Upon A Time In The West",
+        "year":1968,
+        "actors": [
+            "Henry Fonda",
+            "Charles Bronson"
+        ]
+    },
+    {
+        "title": "High Noon",
+        "year":1952,
+        "actors": [
+            "Gary Cooper",
+            "Lee van Cleef"
+        ]
+    },
+    {
+        "title": "Cheyenne Social Club",
+        "year":1970,
+        "actors": [
+            "Henry Fonda",
+            "James Stewart"
+        ]
+    },
+    {
+        "title": "The Bravados",
+        "year":1958,
+        "actors": [
+            "Lee van Cleef",
+            "Gregory Peck"
+        ]
+    },
+    {
+        "title": "The Man Who Shot Liberty Valance",
+        "year":1962,
+        "actors": [
+            "John Wayne",
+            "Lee van Cleef",
+            "James Stewart"
+        ]
+    },
+    {
+        "title": "For a Few Dollars More",
+        "year":1965,
+        "actors": [
+            "Lee van Cleef",
+            "Clint Eastwood"
+        ]
+    },
+    {
+        "title": "Death Rides a Horse",
+        "year":1967,
+        "actors": [
+            "Lee van Cleef"
+        ]
+    },
+    {
+        "title":"Firecreek",
+        "year":1968,
+        "actors":["Henry Fonda","James Stewart"]
+    },
+    {
+        "title":"Man of the West",
+        "year":1958,
+        "actors":["Gary Cooper"]
+    },
+    {
+        "title":"Beyond the Law",
+        "year":1968,
+        "actors": [
+            "Lee van Cleef"
+        ]
+    },
+    {
+        "title":"Shoot Out",
+        "year":1971,
+        "actors":["Gregory Peck"]
+    },
+    {
+        "title":"Mackenna's Gold",
+        "year":1969,
+        "actors":["Gregory Peck"]
+    },
+    {
+        "title":"The Big Country",
+        "year":1958,
+        "actors":["Gregory Peck"]
+    }
+]
