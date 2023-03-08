@@ -1,5 +1,7 @@
 # Western Movies Collection
 
+You can track your watched movies from local JSON file and display list of movies by actor (chart is displayed when you choose "all movies" option).
+
 Created to exercise:
 - reading data from JSON file
 - displaying data in a chart (Chart.js)
